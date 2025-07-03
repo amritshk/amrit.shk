@@ -1,1 +1,2 @@
-# amrit.shk.github.io
+# amrit.shk
+# This website belongs to amritshk.dev@gmail.com
